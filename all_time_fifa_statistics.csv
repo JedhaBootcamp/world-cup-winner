@@ -1,0 +1,80 @@
+Position,Country,Part's,Played,Won,Drawn,Lost,Goals For,Goals Against,Goal Difference,Points,Average_points,Best_finish
+1,Brazil,21,105,70,18,17,222,103,119,228,2.17,Winner (5 times)
+2,Germany,19,107,66,20,21,224,122,102,218,2.04,Winner (4 times)
+3,Italy,18,83,45,21,17,128,77,51,156,1.88,Winner (4 times)
+4,Argentina,17,79,42,15,22,132,88,44,141,1.78,Winner (2 times)
+5,Spain,15,61,30,13,18,96,69,27,103,1.69,Winner (1 time)
+6,France,15,61,30,12,19,109,72,37,102,1.67,Winner (1 time)
+7,England,15,63,27,20,16,81,57,24,101,1.6,Winner (1 time)
+8,Netherlands,10,50,27,12,11,86,48,38,93,1.86,Runners-up (3 times)
+9,Uruguay,13,53,22,12,19,82,71,11,78,1.5,Winner (2 times)
+10,Russia,11,42,19,8,15,74,48,26,65,1.54,Fourth place
+11,Sweden,12,47,17,13,17,75,69,6,64,1.36,Runners-up
+12,Serbia,12,44,18,8,18,65,59,6,62,1.41,Fourth place (2 times)
+13,Mexico,16,54,15,14,25,58,92,-34,59,1.09,Quarter-finals
+14,Belgium,13,42,15,9,18,55,66,-11,54,1.29,Fourth place
+15,Poland,8,32,15,5,12,45,42,3,50,1.56,Third place (2 times)
+16,Hungary,9,32,15,3,14,87,57,30,48,1.5,Runners-up (2 times)
+17,Portugal,7,28,14,5,9,47,32,15,47,1.68,Third place
+18,Czech Republic,9,33,12,5,16,47,49,-2,41,1.24,Runners-up (2 times)
+19,Austria,7,29,12,4,13,43,47,-4,40,1.38,Third place
+20,Chile,9,33,11,7,15,40,49,-9,40,1.21,Third place
+21,Switzerland,11,34,11,7,16,46,60,-14,40,1.18,Quarter-finals
+22,Paraguay,8,27,7,10,10,30,38,-8,31,1.15,Quarter-finals
+23,Denmark,5,18,9,3,6,29,25,4,30,1.66,Quarter-finals
+24,United States,10,33,8,6,19,37,62,-25,30,0.91,Third place
+25,Croatia,5,18,9,2,7,26,17,9,29,1.61,Third place
+26,Romania,7,21,8,5,8,30,32,-2,29,1.38,Quarter-finals
+27,Korea Republic,10,32,5,9,18,31,68,-37,24,0.75,Fourth place
+28,Colombia,6,19,7,2,10,27,29,-2,23,1.21,Quarter-finals
+29,Costa Rica,5,16,5,4,7,17,24,-7,19,1.19,Quarter-finals
+30,Japan,6,18,5,4,9,16,23,-7,19,1.06,Second round
+31,Scotland,8,23,4,7,12,25,41,-16,19,0.83,First round
+32,Cameroon,7,23,4,7,12,18,43,-25,19,0.83,Quarter-finals
+33,Nigeria,6,19,5,3,11,20,28,-8,18,0.95,Second round
+34,Bulgaria,7,26,3,8,15,22,53,-31,17,0.65,Fourth place
+35,Turkey,2,10,5,1,4,20,17,3,16,1.6,Third place
+36,Ghana,3,12,4,3,5,13,16,-3,15,1.25,Quarter-finals
+37,Peru,5,17,4,3,10,19,33,-14,15,0.88,Quarter-finals
+38,Republic of Ireland,3,13,2,8,3,10,10,0,14,1.08,Quarter-finals
+39,Northern Ireland,3,13,3,5,5,13,23,-10,14,1.08,Quarter-finals
+40,Ecuador,3,10,4,1,5,10,11,-1,13,1.3,Second round
+41,Algeria,4,13,3,3,7,13,19,-6,12,0.92,Second round
+42,Senegal,2,6,3,2,1,9,7,2,11,1.83,Quarter-finals
+43,Ivory Coast,3,9,3,1,5,13,14,-1,10,1.11,First round
+44,South Africa,3,9,2,4,3,11,16,-5,10,1.11,First round
+45,Morocco,5,15,2,4,9,12,20,-8,10,0.67,Second round
+46,Australia,5,15,2,4,9,13,29,-16,10,0.66,Second round
+47,Norway,3,8,2,3,3,7,8,-1,9,1.13,Second round
+48,Iran,5,14,2,3,9,8,23,-15,9,0.64,First round
+49,East Germany,1,6,2,2,2,5,5,0,8,1.33,Quarter-finals
+50,Greece,3,10,2,2,6,5,20,-15,8,0.8,Second round
+51,Saudi Arabia,5,15,2,2,11,9,38,-29,8,0.53,Second round
+52,Ukraine,1,5,2,1,2,5,7,-2,7,1.4,Quarter-finals
+53,Tunisia,5,13,1,4,8,9,19,-10,7,0.54,First round
+54,Wales,1,5,1,3,1,4,4,0,6,1.2,Quarter-finals
+55,Cuba,1,3,1,1,1,5,12,-7,4,1.33,Quarter-finals
+56,Slovakia,1,4,1,1,2,5,7,-2,4,1,Second round
+57,Slovenia,2,6,1,1,4,5,10,-5,4,0.67,First round
+58,North Korea,2,7,1,1,5,6,21,-15,4,0.57,Quarter-finals
+59,Bosnia and Herzegovina,1,3,1,0,2,4,4,0,3,1,First round
+60,Jamaica,1,3,1,0,2,3,9,-6,3,1,First round
+61,New Zealand,2,6,0,3,3,4,14,-10,3,0.5,First round
+62,Honduras,3,9,0,3,6,3,14,-11,3,0.33,First round
+63,Angola,1,3,0,2,1,1,2,-1,2,0.67,First round
+64,Israel,1,3,0,2,1,1,3,-2,2,0.67,First round
+65,Egypt,3,6,0,2,4,4,10,-6,2,0.33,First round
+66,Iceland,1,1,0,1,0,1,1,0,1,1,not_known
+67,Kuwait,1,3,0,1,2,2,6,-4,1,0.33,First round
+68,Trinidad and Tobago,1,3,0,1,2,0,4,-4,1,0.33,First round
+69,Bolivia,3,6,0,1,5,1,20,-19,1,0.17,First round
+70,Iraq,1,3,0,0,3,1,4,-3,0,0,First round
+71,Panama,1,1,0,0,1,0,3,-3,0,0,not_known
+72,Togo,1,3,0,0,3,1,6,-5,0,0,First round
+73,Canada,1,3,0,0,3,0,5,-5,0,0,First round
+74,Indonesia,1,1,0,0,1,0,6,-6,0,0,First round
+75,United Arab Emirates,1,3,0,0,3,2,11,-9,0,0,First round
+76,China PR,1,3,0,0,3,0,9,-9,0,0,First round
+77,Haiti,1,3,0,0,3,2,14,-12,0,0,First round
+78,DR Congo,1,3,0,0,3,0,14,-14,0,0,First round
+79,El Salvador,2,6,0,0,6,1,22,-21,0,0,First round
